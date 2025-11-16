@@ -1,0 +1,13 @@
+"D:\ProgramFiles\JetBrains\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/ProgramFiles/JetBrains/CLion 2025.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S E:\ProgramTest\stm32\NL\f401_rtos_7_27\f401_rtos_6_12 -B E:\ProgramTest\stm32\NL\f401_rtos_7_27\f401_rtos_6_12\cmake-build-debug
+CMake Warning (dev) at CMakeLists.txt:35 (enable_language):
+  project() should be called prior to this enable_language() call.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- The C compiler identification is GNU 10.3.1
+-- The ASM compiler identification is GNU
+-- Found assembler: D:/ProgramFiles/JetBrains/CLion 2025.1/plus/gcc-arm-none-eabi/bin/arm-none-eabi-gcc.exe
+-- The CXX compiler identification is GNU 10.3.1
+Build type: Debug
+-- Configuring done (8.7s)
+-- Generating done (0.3s)
+-- Build files have been written to: E:/ProgramTest/stm32/NL/f401_rtos_7_27/f401_rtos_6_12/cmake-build-debug
